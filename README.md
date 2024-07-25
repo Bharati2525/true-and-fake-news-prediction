@@ -1,1 +1,1 @@
-# true-and-fake-news-prediction
+# True-and-Fake-news-prediction
